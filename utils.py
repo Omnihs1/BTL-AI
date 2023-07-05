@@ -1,4 +1,5 @@
 from library import *
+from config import class_labels, device
 # Function to convert cells to bounding boxes
 def convert_cells_to_bboxes(predictions, anchors, s, is_predictions=True):
     # Batch size used on predictions
