@@ -37,3 +37,5 @@ class_labels = [
     "chair", "cow", "diningtable", "dog", "horse", "motorbike", "person",
     "pottedplant", "sheep", "sofa", "train", "tvmonitor"
 ]
+
+class_custom = ["dung", "hieu", "son"]
