@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_resized_2</folder>
+	<filename>img1427.jpg</filename>
+	<path>D:\PyCharm_Project\dataset_resized_2\img1427.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>son</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>115</ymin>
+			<xmax>212</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>
