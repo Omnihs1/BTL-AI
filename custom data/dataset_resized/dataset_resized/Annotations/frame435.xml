@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_resized</folder>
+	<filename>frame435.jpg</filename>
+	<path>D:\PyCharm_Project\dataset_resized\frame435.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>5</ymin>
+			<xmax>294</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

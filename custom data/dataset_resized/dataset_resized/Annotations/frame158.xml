@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_resized</folder>
+	<filename>frame158.jpg</filename>
+	<path>D:\PyCharm_Project\dataset_resized\frame158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>48</ymin>
+			<xmax>338</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

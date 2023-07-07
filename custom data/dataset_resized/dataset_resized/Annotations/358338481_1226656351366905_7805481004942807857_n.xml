@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_resized</folder>
+	<filename>358338481_1226656351366905_7805481004942807857_n.jpg</filename>
+	<path>D:\PyCharm_Project\dataset_resized\358338481_1226656351366905_7805481004942807857_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>184</ymin>
+			<xmax>317</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>
