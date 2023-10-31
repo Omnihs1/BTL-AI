@@ -28,6 +28,7 @@ Tạo train.csv, test.csv (tỉ lệ 80:20)
 ## 6. Kiến thức học được
 - Object Detection bằng YOLOv3
 - Dán nhãn data bằng LabelImg
+- Tổng hợp data bằng Pandas
 - Thư viện Pytorch để implement mô hình
 
 
