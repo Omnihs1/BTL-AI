@@ -25,4 +25,9 @@ Tạo train.csv, test.csv (tỉ lệ 80:20)
 ## 5. Kết quả 
 ![alt text](https://github.com/Omnihs1/BTL-AI/blob/main/result.png)
 
+## 6. Kiến thức học được
+- Object Detection bằng YOLOv3
+- Dán nhãn data bằng LabelImg
+- Thư viện Pytorch để implement mô hình
+
 
