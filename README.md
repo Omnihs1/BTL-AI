@@ -3,5 +3,5 @@
 Nhận diện khuôn mặt bằng YOLOv3
 ## 2. Mô tả đề tài
 Implement lại mô hình YOLOv3 và sử dụng để nhận diện khuôn mặt các thành viên trong nhóm
-![Cấu trúc mô hình YOLOv3](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*d4Eg17IVJ0L41e7CTWLLSg.png)
+![Cấu trúc mô hình YOLOv3](https://github.com/Omnihs1/BTL-AI/blob/main/yolov3%20architecture.png)
  
