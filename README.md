@@ -18,11 +18,11 @@ Tạo train.csv, test.csv (tỉ lệ 80:20)
 
 ## 4. Huấn luyện mô hình
 Trên tập dữ liệu lớn với 20 epochs trên GPU TESLA T4 trên colab
-! [alt text](https://github.com/Omnihs1/BTL-AI/blob/main/train.png)
+![alt text](https://github.com/Omnihs1/BTL-AI/blob/main/train.png)
 Trên tập dữ liệu nhỏ
-! [alt text](https://github.com/Omnihs1/BTL-AI/blob/main/fine_tune_model.png)
+![alt text](https://github.com/Omnihs1/BTL-AI/blob/main/fine_tune_model.png)
 
 ## 5. Kết quả 
-! [alt text](https://github.com/Omnihs1/BTL-AI/blob/main/result.png)
+![alt text](https://github.com/Omnihs1/BTL-AI/blob/main/result.png)
 
 
